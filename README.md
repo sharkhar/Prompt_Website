@@ -3,6 +3,7 @@ Create website from prompt
 
 Tree Structure of files and folders: 
 
+```
 .
 ├── content 
 │   └── blogs
@@ -73,3 +74,4 @@ Tree Structure of files and folders:
 ├── tsconfig.json
 ├── tsconfig.node.json
 └── vite.config.ts
+```
